@@ -7,6 +7,7 @@ What I was doing to this Customer was taking data from a SQL Server and then sen
 Why did I choose powershell and not the better known python?
 It's simple, that server didn't have this library: 'api-ms-win-core-path-|1-1-0.dll' and I was really mad about it because the previous version, in python, seems to use this library. 
 So I have created this powershell that works perfectly with that old system.
+
 Pros:
 - light
 - fast
