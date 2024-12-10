@@ -8,12 +8,4 @@ What I was doing to this Customer was taking data from a SQL Server and then sen
 It's simple, that server didn't have this <b>windows library</b>: <b>'api-ms-win-core-path-|1-1-0.dll'</b> and I was really mad about it because the previous version, in python, seems to use this library. 
 So I have created this powershell that works perfectly with that old system.
 
-Pros:
-- light
-- fast
-
-Cons:
-- I prefer to develop python
-<br/>
-<br/>
 Feel free to ask anything about it!
